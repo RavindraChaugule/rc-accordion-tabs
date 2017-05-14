@@ -1,2 +1,6 @@
 # rc-accordion-tabs
-Tabs to Accordion CSS  only
+
+Tabs to Accordion component made using HTML and CSS only. This component is responsive and customizable.
+
+
+
